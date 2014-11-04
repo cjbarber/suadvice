@@ -1,0 +1,10 @@
+# Site settings
+title: Stanford Application Advice
+description: > # this means to ignore newlines until "baseurl:"
+  Tips on applying to Stanford, especially for 'startup people',
+  Australians, or other internationals.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.suadvice.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
